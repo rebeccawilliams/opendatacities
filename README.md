@@ -5,9 +5,9 @@ cities with [open data policies] (https://docs.google.com/a/sunlightfoundation.c
 
 a [map] (https://github.com/rebeccawilliams/opendatacities/blob/master/points.geoJSON)
 
-TO DO:
+TO DO:  
 
-*name cities
-*link policies 
-*color polygons
-*add "in the works" locations
++ name cities  
++ link policies  
++ color polygons  
++ add "in the works" locations  

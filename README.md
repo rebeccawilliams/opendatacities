@@ -7,7 +7,7 @@ a [map] (https://github.com/rebeccawilliams/opendatacities/blob/master/points.ge
 
 TO DO:
 
-name cities
-link policies 
-color polygons
-add "in the works" locations
+*name cities
+*link policies 
+*color polygons
+*add "in the works" locations

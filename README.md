@@ -5,7 +5,7 @@ cities with [open data policies] (https://docs.google.com/a/sunlightfoundation.c
 
 a [map] (https://github.com/rebeccawilliams/opendatacities/blob/master/points.geoJSON)
 
-TODO:
+TO DO:
 
 name cities
 link policies 

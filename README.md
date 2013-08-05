@@ -9,6 +9,6 @@ TO DO:
 
 + add montgomery county  
 + name cities  
-+ link policies  
++ link policies [to gist versions] (https://gist.github.com/rebeccawilliams) _Note: many gists private currently._
 + color polygons  
 + add "in the works" locations  

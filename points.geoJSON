@@ -1,14 +1,4 @@
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.97656249999999,
-          36.19109202182454
-        ]
-      },
-      {{
+{
    "type":"Feature",
    "geometry":{
       "type":"Polygon",
@@ -287,8 +277,6 @@
                45.013027
             ]
          ]
-         }
-    }
-  ]
+      ]
+   }
 }
-

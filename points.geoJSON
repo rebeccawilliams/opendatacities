@@ -734,7 +734,6 @@
          "type":"Feature",
          "properties":{
             "Location":"New York City, NY"
-            "Policy link:"https://gist.github.com/rebeccawilliams/fc5a547819426f5845a7"
          },
          "geometry":{
             "type":"Point",

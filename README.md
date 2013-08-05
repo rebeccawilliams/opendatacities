@@ -5,6 +5,8 @@ cities with [open data policies] (https://docs.google.com/a/sunlightfoundation.c
 
 a [map] (https://github.com/rebeccawilliams/opendatacities/blob/master/points.geoJSON)
 
+don't link yet y'all, this is still in the works 
+
 TO DO:  
 
 + add montgomery county  

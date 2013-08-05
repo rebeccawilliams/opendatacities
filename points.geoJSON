@@ -707,7 +707,7 @@
          "type":"Feature",
          "id":"5",
          "properties":{
-            "name":"city1"
+            "name":"Washington, D.C."
          },
          "geometry":{
             "type":"Point",
@@ -720,7 +720,7 @@
       {
          "type":"Feature",
          "properties":{
-
+            "name":"Portland, OR"
          },
          "geometry":{
             "type":"Point",
@@ -733,7 +733,7 @@
       {
          "type":"Feature",
          "properties":{
-
+            "name":"Memphis, TN"
          },
          "geometry":{
             "type":"Point",
@@ -746,7 +746,7 @@
       {
          "type":"Feature",
          "properties":{
-
+            "name":"Lexington, KY"
          },
          "geometry":{
             "type":"Point",
@@ -758,8 +758,8 @@
       },
       {
          "type":"Feature",
-         "properties":{
-
+      "properties":{
+            "name":"city2"
          },
          "geometry":{
             "type":"Point",
@@ -772,7 +772,7 @@
       {
          "type":"Feature",
          "properties":{
-
+            "name":"city3"
          },
          "geometry":{
             "type":"Point",
@@ -785,7 +785,7 @@
       {
          "type":"Feature",
          "properties":{
-
+            "name":"city4"
          },
          "geometry":{
             "type":"Point",
@@ -797,8 +797,8 @@
       },
       {
          "type":"Feature",
-         "properties":{
-
+       "properties":{
+            "name":"city5"
          },
          "geometry":{
             "type":"Point",
@@ -810,8 +810,8 @@
       },
       {
          "type":"Feature",
-         "properties":{
-
+      "properties":{
+            "name":"city6"
          },
          "geometry":{
             "type":"Point",
@@ -824,7 +824,7 @@
       {
          "type":"Feature",
          "properties":{
-
+            "name":"city7"
          },
          "geometry":{
             "type":"Point",
@@ -836,8 +836,8 @@
       },
       {
          "type":"Feature",
-         "properties":{
-
+       "properties":{
+            "name":"city8"
          },
          "geometry":{
             "type":"Point",
@@ -849,8 +849,8 @@
       },
       {
          "type":"Feature",
-         "properties":{
-
+      "properties":{
+            "name":"city9"
          },
          "geometry":{
             "type":"Point",
@@ -862,8 +862,8 @@
       },
       {
          "type":"Feature",
-         "properties":{
-
+      "properties":{
+            "name":"city10"
          },
          "geometry":{
             "type":"Point",

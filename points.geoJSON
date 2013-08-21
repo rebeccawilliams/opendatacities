@@ -705,10 +705,10 @@
       },
       {
          "type":"Feature",
-         "id":"5",
          "properties":{
             "Location":"Washington, D.C."
-       },
+            "href": "http://www.scribd.com/fullscreen/26442622?access_key=key-20rfsh26eu0ob66xlbmu",
+         },
          "geometry":{
             "type":"Point",
             "coordinates":[

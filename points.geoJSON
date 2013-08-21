@@ -707,7 +707,9 @@
          "type":"Feature",
          "id":"5",
          "properties":{
-            "name":"Washington, D.C."
+            "Location":"Washington, D.C."
+             "href": "http://www.scribd.com/fullscreen/26442622?access_key=key-20rfsh26eu0ob66xlbmu",
+             "type": "proj4"
          },
          "geometry":{
             "type":"Point",
@@ -721,7 +723,6 @@
          "type":"Feature",
          "properties":{
             "Location":"Philadelphia, PA"
-            "Policy":"https://gist.github.com/PhillyCDO/3623582"
          },
          "geometry":{
             "type":"Point",

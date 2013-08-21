@@ -721,6 +721,7 @@
          "type":"Feature",
          "properties":{
             "Location":"Philadelphia, PA"
+            "Policy":"https://gist.github.com/PhillyCDO/3623582"
          },
          "geometry":{
             "type":"Point",

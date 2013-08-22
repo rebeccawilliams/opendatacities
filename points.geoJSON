@@ -6,11 +6,6 @@
          "properties":{
             "name":"New Hampshire",
          },
-      {
-         "type":"Feature",
-         "properties":{
-            "name":"test",
-         },
          "geometry":{
             "type":"Polygon",
             "coordinates":[

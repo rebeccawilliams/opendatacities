@@ -706,7 +706,7 @@
       {
          "type":"Feature",
          "properties":{
-            "Location":"Providence, RI"
+            "Location":"city a"
          },
          "geometry":{
             "type":"Point",
@@ -719,7 +719,7 @@
       {
          "type":"Feature",
          "properties":{
-            "Location":"Providence, RI"
+            "Location":"city b"
          },
          "geometry":{
             "type":"Point",
@@ -732,7 +732,7 @@
       {
          "type":"Feature",
          "properties":{
-            "Location":"Providence, RI"
+            "Location":"city c"
          },
          "geometry":{
             "type":"Point",
@@ -745,7 +745,7 @@
       {
          "type":"Feature",
          "properties":{
-            "Location":"Providence, RI"
+            "Location":"city d"
          },
          "geometry":{
             "type":"Point",

@@ -418,10 +418,13 @@
          }
       },
       {
-         "type":"Feature",
-         "properties":{
-            "name":"Utah"
-         },
+        "type": "Feature",
+        "properties": {
+        "State": "Utah",
+        "Date": "2013",
+        "Document Type": "Legislation",
+        "Policy URL": "http://le.utah.gov/~2013/bills/sbillenr/SB0283.pdf"
+      },
          "geometry":{
             "type":"Polygon",
             "coordinates":[
@@ -479,10 +482,13 @@
          }
       },
       {
-         "type":"Feature",
-         "properties":{
-            "name":"Hawaii"
-         },
+        "type": "Feature",
+        "properties": {
+        "State": "Hawaii",
+        "Date": "2013",
+        "Document Type": "Legislation",
+        "Policy URL": "http://www.capitol.hawaii.gov/session2013/bills/HB632_CD1_.htm"
+      },
          "geometry":{
             "type":"MultiPolygon",
             "coordinates":[
@@ -706,10 +712,13 @@
          }
       },
       {
-         "type":"Feature",
-         "properties":{
-            "Location":"a"
-         },
+       "type": "Feature",
+        "properties": {
+        "City": "Philadelphia",
+        "Date": "2012",
+        "Document Type": "Legislation",
+        "Policy URL": "https://gist.github.com/PhillyCDO/3623582"
+      },
          "geometry":{
             "type":"Point",
             "coordinates":[

@@ -130,10 +130,13 @@
          }
       },
     {
-         "type":"Feature",
-         "properties":{
-            "name":"New York"
-         },
+         "type": "Feature",
+      "properties": {
+        "State": "New York",
+        "Date": "2013",
+        "Document Type": "Executive Order",
+        "Policy URL": "http://www.governor.ny.gov/executiveorder/95"
+      },
          "geometry":{
             "type":"Polygon",
             "coordinates":[

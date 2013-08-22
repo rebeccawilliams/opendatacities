@@ -733,7 +733,6 @@
          "type":"Feature",
          "properties":{
             "Location":"Providence, RI"
-            "Policy URL":"http:\/\/www.info-france-usa.org"
          },
          "geometry":{
             "type":"Point",

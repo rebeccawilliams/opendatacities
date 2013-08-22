@@ -3,8 +3,7 @@
    "features":[
       {
          "type":"Feature",
-         "properties":{
-            "name":"New Hampshire", "Policy URL":"test", 
+         "properties":{ "Location": "New Hampshire", "Policy URL": "test", 
          },
          "geometry":{
             "type":"Polygon",

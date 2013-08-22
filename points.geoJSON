@@ -706,7 +706,7 @@
       {
          "type":"Feature",
          "properties":{
-             "Location":"Washington, D.C."
+            "Location":"Providence, RI"
          },
          "geometry":{
             "type":"Point",
@@ -719,7 +719,7 @@
       {
          "type":"Feature",
          "properties":{
-            "Location":"Philadelphia, PA"
+            "Location":"Providence, RI"
          },
          "geometry":{
             "type":"Point",
@@ -732,7 +732,7 @@
       {
          "type":"Feature",
          "properties":{
-            "Location":"New York City, NY"
+            "Location":"Providence, RI"
          },
          "geometry":{
             "type":"Point",

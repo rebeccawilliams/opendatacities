@@ -4,9 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "1": "place",
-        "2": "2",
-        "3": "http://www.google.com"
+        "State": "New Hampshire",
+        "Date": "2013",
+        "Document Type": "Legislation",
+        "Policy URL": "http://www.nhliberty.org/bills/view/2013/HB155",
       },
          "geometry":{
             "type":"Polygon",

@@ -5,6 +5,10 @@
          "type":"Feature",
          "properties":{
             "name":"New Hampshire",
+         },
+      {
+         "type":"Feature",
+         "properties":{
             "name":"test",
          },
          "geometry":{

@@ -3,8 +3,8 @@
    "features":[
       {
          "type":"Feature",
-         "properties":{ 
-            "Location": "New Hampshire", 
+         "properties":{
+            "name":"New Hampshire"
          },
          "geometry":{
             "type":"Polygon",

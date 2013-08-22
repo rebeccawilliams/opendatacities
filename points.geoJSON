@@ -3,7 +3,6 @@
    "features":[
       {
          "type":"Feature",
-         "id":"1",
          "properties":{
             "name":"New Hampshire"
          },
@@ -129,7 +128,6 @@
       },
     {
          "type":"Feature",
-         "id":"2",
          "properties":{
             "name":"New York"
          },
@@ -415,7 +413,6 @@
       },
       {
          "type":"Feature",
-         "id":"3",
          "properties":{
             "name":"Utah"
          },
@@ -477,7 +474,6 @@
       },
       {
          "type":"Feature",
-         "id":"4",
          "properties":{
             "name":"Hawaii"
          },
@@ -706,7 +702,7 @@
       {
          "type":"Feature",
          "properties":{
-            "Location":"city a"
+            "Location":"a"
          },
          "geometry":{
             "type":"Point",
@@ -719,7 +715,7 @@
       {
          "type":"Feature",
          "properties":{
-            "Location":"city b"
+            "Location":"b"
          },
          "geometry":{
             "type":"Point",
@@ -732,7 +728,7 @@
       {
          "type":"Feature",
          "properties":{
-            "Location":"city c"
+            "Location":"c"
          },
          "geometry":{
             "type":"Point",
@@ -745,7 +741,7 @@
       {
          "type":"Feature",
          "properties":{
-            "Location":"city d"
+            "Location":"d"
          },
          "geometry":{
             "type":"Point",

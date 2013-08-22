@@ -1,10 +1,10 @@
 {
    "type":"FeatureCollection",
    "features":[
-      {
+  {
          "type":"Feature",
          "properties":{
-            "name":"New Hampshire",
+            "name":"New Hampshire"
          },
          "geometry":{
             "type":"Polygon",

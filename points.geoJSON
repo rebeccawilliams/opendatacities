@@ -4,8 +4,8 @@
       {
          "type":"Feature",
          "properties":{
-            "name":"New Hampshire"
-            "name":"test"
+            "name":"New Hampshire",
+            "name":"test",
          },
          "geometry":{
             "type":"Polygon",

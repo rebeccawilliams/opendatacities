@@ -5,6 +5,7 @@
          "type":"Feature",
          "properties":{
             "name":"New Hampshire"
+            "Policy URL":"http:\/\/www.embassy.org\/embassies\/mw.html"
          },
          "geometry":{
             "type":"Polygon",

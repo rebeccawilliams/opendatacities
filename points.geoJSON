@@ -708,11 +708,6 @@
          "properties":{
             "Location":"Providence, RI"
          },
-        {"type": "link",
-         "properties": {
-         "href": "http://example.com/crs/42",
-         "type": "proj4"
-         },
          "geometry":{
             "type":"Point",
             "coordinates":[

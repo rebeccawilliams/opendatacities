@@ -764,7 +764,7 @@
         "properties": {
           "City": "Providence",
           "Date": "3/19/2012",
-          "Legal Means": "Legislation",
+          "Legal Means": "Legislation (for study)",
           "Policy URL": "http://www.gcpvd.org/2012/03/19/open-providence-commission-for-transparency-and-accountability-meeting-today-march-19/"
        },
          "geometry":{
@@ -777,7 +777,7 @@
       },
       {
         "type": "Feature",
-          "properties": {
+        "properties": {
           "City": "Raleigh",
           "Date": "1/24/2012",
           "Legal Means": "Legislation",
@@ -792,10 +792,13 @@
          }
       },
       {
-         "type":"Feature",
-         "properties":{
-            "name":"city3"
-         },
+        "type": "Feature",
+        "properties": {
+          "City": "Lexington-Fayette",
+          "Date": "6/7/2011",
+          "Legal Means": "Legislation",
+          "Policy URL": "http://www.lexingtonky.gov/Modules/ShowDocument.aspx?documentid=16343"
+       },
          "geometry":{
             "type":"Point",
             "coordinates":[
@@ -805,10 +808,13 @@
          }
       },
       {
-         "type":"Feature",
-         "properties":{
-            "name":"city4"
-         },
+        "type": "Feature",
+        "properties": {
+          "City": "Chicago",
+          "Date": "12/11/2012",
+          "Legal Means": "Executive Order",
+          "Policy URL": "http://www.cityofchicago.org/city/en/narr/foia/open_data_executiveorder.html"
+       },
          "geometry":{
             "type":"Point",
             "coordinates":[
@@ -818,10 +824,13 @@
          }
       },
       {
-         "type":"Feature",
-       "properties":{
-            "name":"city5"
-         },
+         "type": "Feature",
+         "properties": {
+          "City": "Austin",
+          "Date": "12/08/2011",
+          "Legal Means": "Legislation",
+          "Policy URL": "http://www.ci.austin.tx.us/edims/document.cfm?id=161941"
+       },
          "geometry":{
             "type":"Point",
             "coordinates":[
@@ -831,10 +840,13 @@
          }
       },
       {
-         "type":"Feature",
-      "properties":{
-            "name":"city6"
-         },
+         "type": "Feature",
+         "properties": {
+          "City": "San Francisco",
+          "Date": "3/28/2013",
+          "Legal Means": "Legislation",
+          "Policy URL": "http://sfbos.org/ftp/uploadedfiles/bdsupvrs/committees/materials/gao_032813_121017.pdf"
+       },
          "geometry":{
             "type":"Point",
             "coordinates":[
@@ -844,10 +856,13 @@
          }
       },
       {
-         "type":"Feature",
-         "properties":{
-            "name":"city7"
-         },
+         "type": "Feature",
+         "properties": {
+          "City": "Portland,
+          "Date": "9/30/2009",
+          "Legal Means": "Legislation",
+          "Policy URL": "http://www.portlandonline.com/shared/cfm/image.cfm?id=275696"
+       },
          "geometry":{
             "type":"Point",
             "coordinates":[
@@ -857,10 +872,13 @@
          }
       },
       {
-         "type":"Feature",
-       "properties":{
-            "name":"city8"
-         },
+         "type": "Feature",
+         "properties": {
+          "City": "Memphis",
+          "Date": "10/10/2009",
+          "Legal Means": "Legislation",
+          "Policy URL": "http://www.memphistn.gov/portals/0/pdf_forms/MayorsTransparencyExecutiveOrder.pdf"
+        },
          "geometry":{
             "type":"Point",
             "coordinates":[
@@ -870,10 +888,13 @@
          }
       },
       {
-         "type":"Feature",
-      "properties":{
-            "name":"city9"
-         },
+         "type": "Feature",
+         "properties": {
+          "City": "Madison",
+          "Date": "8/16/2012",
+          "Legal Means": "Legislation",
+          "Policy URL": "http://madison.legistar.com/ViewReport.ashx?M=R&N=Text&GID=205&ID=1201083&GUID=2EC21911-798D-4499-BFAF-96BDACBCD8C7&Title=Legislation+Text"
+        },
          "geometry":{
             "type":"Point",
             "coordinates":[
@@ -883,10 +904,13 @@
          }
       },
       {
-         "type":"Feature",
-      "properties":{
-            "name":"city10"
-         },
+         "type": "Feature",
+         "properties": {
+          "City": "Tulsa",
+          "Date": "5/2/2013",
+          "Legal Means": "Legislation",
+          "Policy URL": "http://opentulsa.org/wp-content/uploads/2013/04/bd55b02c-59cd-46bb-8591-03642d5fde05.pdf"
+        },
          "geometry":{
             "type":"Point",
             "coordinates":[

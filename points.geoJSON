@@ -1301,10 +1301,10 @@
       {
          "type": "Feature",
          "properties": {
-          "City": "Tulsa",
+          "City": "Tulsa, OK",
           "Date": "5/2/2013",
-          "Legal Means": "Legislation",
-          "Policy URL": "http://opentulsa.org/wp-content/uploads/2013/04/bd55b02c-59cd-46bb-8591-03642d5fde05.pdf"
+          "Legal Means":"Legislation",
+          "Policy URL":"http://opentulsa.org/wp-content/uploads/2013/04/bd55b02c-59cd-46bb-8591-03642d5fde05.pdf"
         },
          "geometry":{
             "type":"Point",

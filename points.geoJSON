@@ -732,7 +732,7 @@
         "properties": {
           "City": "Philadelphia",
           "Date": "4/26/2012",
-          "Legal Means": "Legislation",
+          "Legal Means": "Executive Order",
           "Policy URL": "https://gist.github.com/PhillyCDO/3623582"
       },
          "geometry":{
@@ -876,7 +876,7 @@
          "properties": {
           "City": "Memphis",
           "Date": "10/10/2009",
-          "Legal Means": "Legislation",
+          "Legal Means": "Executive Order",
           "Policy URL": "http://www.memphistn.gov/portals/0/pdf_forms/MayorsTransparencyExecutiveOrder.pdf"
         },
          "geometry":{

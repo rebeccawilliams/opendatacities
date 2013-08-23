@@ -5,12 +5,8 @@ cities with [open data policies] (https://docs.google.com/a/sunlightfoundation.c
 
 a [map] (https://github.com/rebeccawilliams/opendatacities/blob/master/points.geoJSON)
 
-don't link yet y'all, this is still in the works 
-
 TO DO:  
 
 + add montgomery county  
-+ name cities  
 + link policies [to gist versions] (https://gist.github.com/rebeccawilliams) _Note: many gists private currently._
-+ color polygons  
-+ add "in the works" locations?  
++ color polygons? can I?

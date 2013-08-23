@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "State": "New Hampshire",
-        "Date": "2013",
-        "Document Type": "Legislation",
+        "Date": "5/29/2013",
+        "Legal Means": "Legislation",
         "Policy URL": "http://www.nhliberty.org/bills/view/2013/HB155"
       },
          "geometry":{
@@ -133,8 +133,8 @@
          "type": "Feature",
       "properties": {
         "State": "New York",
-        "Date": "2013",
-        "Document Type": "Executive Order",
+        "Date": "11/3/2013",
+        "Legal Means": "Executive Order",
         "Policy URL": "http://www.governor.ny.gov/executiveorder/95"
       },
          "geometry":{
@@ -421,8 +421,8 @@
         "type": "Feature",
         "properties": {
         "State": "Utah",
-        "Date": "2013",
-        "Document Type": "Legislation",
+        "Date": "3/12/2013",
+        "Legal Means": "Legislation",
         "Policy URL": "http://le.utah.gov/~2013/bills/sbillenr/SB0283.pdf"
       },
          "geometry":{
@@ -485,8 +485,8 @@
         "type": "Feature",
         "properties": {
         "State": "Hawaii",
-        "Date": "2013",
-        "Document Type": "Legislation",
+        "Date": "7/3/2013",
+        "Legal Means": "Legislation",
         "Policy URL": "http://www.capitol.hawaii.gov/session2013/bills/HB632_CD1_.htm"
       },
          "geometry":{
@@ -712,12 +712,12 @@
          }
       },
       {
-       "type": "Feature",
+        "type": "Feature",
         "properties": {
-        "City": "Philadelphia",
-        "Date": "2012",
-        "Document Type": "Legislation",
-        "Policy URL": "https://gist.github.com/PhillyCDO/3623582"
+        "City": "Washington, D.C.",
+        "Date": "2006",
+        "Legal Means": "City Administartor Memo",
+        "Policy URL": "http://www.scribd.com/fullscreen/26442622?access_key=key-20rfsh26eu0ob66xlbmu"
       },
          "geometry":{
             "type":"Point",
@@ -728,10 +728,13 @@
          }
       },
       {
-         "type":"Feature",
-         "properties":{
-            "Location":"b"
-         },
+        "type": "Feature",
+        "properties": {
+        "City": "Philadelphia",
+        "Date": "4/26/2012",
+        "Legal Means": "Legislation",
+        "Policy URL": "https://gist.github.com/PhillyCDO/3623582"
+      },
          "geometry":{
             "type":"Point",
             "coordinates":[
@@ -741,10 +744,13 @@
          }
       },
       {
-         "type":"Feature",
-         "properties":{
-            "Location":"c"
-         },
+        "type": "Feature",
+        "properties": {
+        "City": "New York City",
+        "Date": "2/29/2012",
+        "Legal Means": "Legislation",
+        "Policy URL": "http://nycopendata.pediacities.com/wiki/index.php/Local_Law_11_of_2012"
+       },
          "geometry":{
             "type":"Point",
             "coordinates":[
@@ -754,10 +760,13 @@
          }
       },
       {
-         "type":"Feature",
-         "properties":{
-            "Location":"d"
-         },
+        "type": "Feature",
+        "properties": {
+        "City": "Providence,
+        "Date": "3/19/2012",
+        "Legal Means": "Legislation",
+        "Policy URL": "http://www.gcpvd.org/2012/03/19/open-providence-commission-for-transparency-and-accountability-meeting-today-march-19/"
+       },
          "geometry":{
             "type":"Point",
             "coordinates":[
@@ -767,10 +776,13 @@
          }
       },
       {
-         "type":"Feature",
-      "properties":{
-            "Location":"city2"
-         },
+        "type": "Feature",
+        "properties": {
+        "City": "Raleigh,
+        "Date": "1/24/2012",
+        "Legal Means": "Legislation",
+        "Policy URL": "http://www.documentcloud.org/documents/286685-open-source-resolution.html"
+       },
          "geometry":{
             "type":"Point",
             "coordinates":[

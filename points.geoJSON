@@ -418,8 +418,9 @@
          }
       },
 },
-      {
-        "type": "Feature",
+   {
+      "type": "Feature",
+      "properties": {
         "County":"Montgomery County",
         "Date": "12/04/2012",
         "Legal Means": "Legislation",

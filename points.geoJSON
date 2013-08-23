@@ -1286,8 +1286,8 @@
       {
       "type": "Feature",
       "properties": {
-        "Name": "South Bend, IN",
-        "Date: "8/22/2013",
+        "City":"South Bend, IN",
+        "Date":"8/22/2013",
         "Legal Means": "Executive Order",
         "Policy URL:"https://gist.github.com/rebeccawilliams/6311204"
       },

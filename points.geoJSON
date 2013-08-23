@@ -426,10 +426,10 @@
         "Legal Means": "Legislation",
         "Policy URL": "http://www6.montgomerycountymd.gov/content/council/pdf/agenda/cm/2012/121126/20121126_GO2.pdf"
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+        "geometry":{
+            "type":"Polygon",
+            "coordinates":[
+         [
             [
               -77.11921691894531,
               38.938582471258066
@@ -793,7 +793,7 @@
             [
               -77.11921691894531,
               38.938582471258066
-                ]
+                  ]
                ]
             ]
          }

@@ -1202,6 +1202,38 @@
       {
          "type":"Feature",
          "properties":{
+            "City":"Louisville, KY",
+            "Date":"2013",
+            "Legal Means":"Executive Order",
+            "Policy URL":"http://www.louisvilleky.gov/NR/rdonlyres/9E90910B-2D16-4F00-87B4-F5476BBEA792/0/opendata.pdf"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+                -85.7537841796875,
+                38.25651475638941
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "City":"Oakland, CA",
+            "Date":"2013",
+            "Legal Means":"Legislation",
+            "Policy URL":"http://www.scribd.com/doc/171673962/Resolution-Establishing-An-Open-Data-Policy-For-The-City-Of-Oakland-For-Making-Public-Data-Available-In-Machine-Readable-Formats-Using-Open-Data-Stand"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -122.2723388671875,
+               37.814123701604466
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
             "City":"Washington, D.C.",
             "Date":"2006",
             "Legal Means":"City Administrator Memo",

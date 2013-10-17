@@ -1454,6 +1454,22 @@
                36.19109202182454
             ]
          }
+      },
+          {
+      "type": "Feature",
+      "properties": {
+        "City": "West Sacramento, CA",
+        "Policy URL": "http://www.cityofwestsacramento.org/civica/filebank/blobdload.asp?BlobID=9779",
+        "Legal Means": "Legislation",
+        "Date": "10/13/2013"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates": [
+          -121.52973175048827,
+          38.58105005928943
+        ]
       }
+     }
    ]
 }

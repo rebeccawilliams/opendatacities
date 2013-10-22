@@ -9,6 +9,5 @@ and [list] (https://github.com/rebeccawilliams/opendatacities/blob/master/portal
 
 TO DO:  
 
-+ add montgomery county  
 + link policies [to gist versions] (https://gist.github.com/rebeccawilliams) _Note: many gists private currently._
-+ color polygons? can I?
++ never stop searchin'

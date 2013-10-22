@@ -5,6 +5,8 @@ cities with [open data policies] (https://docs.google.com/a/sunlightfoundation.c
 
 a [map] (https://github.com/rebeccawilliams/opendatacities/blob/master/points.geoJSON)
 
+and [list] (https://github.com/rebeccawilliams/opendatacities/blob/master/portals.csv) of US cities and states with portals by population. 
+
 TO DO:  
 
 + add montgomery county  

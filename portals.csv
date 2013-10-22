@@ -1,99 +1,99 @@
-Name	Population (Census est or ACS, 2011)	Open Data Law?	Link 	Type 
-De Leon	2233		http://deleon.socrata.com	US City or County
-Belleville	3951		https://data.illinois.gov/belleville	US City or County
-Gilpin County	5467		http://data.opencolorado.org/group/gilpin-county	US City or County
-Weatherford	25557		http://tx-weatherford2.civicplus.com/index.aspx?NID=1448	US City or County
-Redmond	26646		http://data.redmond.gov	US City or County
-Champaign	39795		https://data.illinois.gov/champaign	US City or County
-Wellington	57163		https://data.wellingtonfl.gov/	US City or County
-Santa Cruz	60342		http://data.cityofsantacruz.com	US City or County  
-Palo Alto	64408		http://data.cityofpaloalto.org/	US City or County
-Somerville 	76519		http://data.somervillema.gov	US City or County
-Arvada	83433		http://arvada.org/opendata/	US City or County
-Asheville	84458		http://opendatacatalog.ashevillenc.gov/	US City or County
-South Bend 	101000	Yes	https://data.southbendin.gov/	US City or County
-Ann Arbor	114925		http://www.a2gov.org/data/	US City or County
-Rockford	152222		https://data.illinois.gov/rockford	US City or County
-Salt Lake City	186443		http://data.slcgov.com	US City or County
-Scottsdale	221020		http://data.scottsdaleaz.gov/	US City or County
-Madison	236901	Yes	http://data.cityofmadison.com	US City or County  
-New Orleans	321409		http://data.nola.gov	US City or County 
-Oakland	389397	Yes	http://data.oaklandnet.com	US City or County 
-Raleigh 	395091	Yes	http://data.raleighnc.gov	US City or County
-Atlanta	419250		http://gis.atlantaga.gov/	US City or County
-Montgomery County	455761	Yes	https://data.montgomerycountymd.gov/	US City or County
-Kansas City	457551		https://data.kcmo.org/	US City or County
-Lexington	457551	Yes	http://www.lexingtonky.gov/index.aspx?page=4Yes6	US City or County
-Maine	462257		http://www.maine.gov/data/	US State
-Albuquerque	539000		http://www.cabq.gov/abq-data/	US City or County
-Portland	583778	Yes	http://civicapps.org/datasets/	US City or County
-Providence	583778	Yes	https://data.providenceri.gov/	US City or County
-Louisville	592529	Yes	http://portal.louisvilleky.gov/service/data	US City or County
-Denver	600024		http://data.denvergov.org	US City or County  
-Boston	609942		http://www.cityofboston.gov/doit/databoston/app/data_disclaimer.asp	US City or County
-Boston GIS Data Hub	609942		https://data.cityofboston.gov/	US City or County
-Baltimore 	620210		http://data.baltimorecity.gov	US City or County  
-Seattle 	620778		http://data.seattle.gov	US City or County
-North Dakota GIS Hub	683932		http://www.nd.gov/gis/	Other State Related
-Snohomish County 	722400		http://data.snostat.org	US City or County
-San Francisco 	797983	Yes	http://data.sfgov.org	US City or County
-Washington, District of Columbia	797983	Yes	http://data.dc.gov/	US State
-Austin	820611	Yes	http://data.austintexas.gov	US City or County  
-South Dakota	824082		http://open.sd.gov/	US State
-Delaware	907135		http://www.delaware.gov/data/	US State
-Wake County	929780		http://www.wakegov.com/data/Pages/default.aspx	US City or County
-Honolulu	944287	in progress	https://data.honolulu.gov/	US City or County
-Rhode Island	1051302		http://www.ri.gov/data/	US State
-New Hampshire	1318194	Yes	http://nhopengov.org/	US State
-Hawaii 	1374810	Yes	http://data.hawaii.gov	US State
-Hawaii GIS	1374810		http://gis.hicentral.com/	Other State Related
-Philadelphia	1514456	Yes	http://www.opendataphilly.org/	US State
-Nebraska	1842641		http://www.nebraska.gov/data/	US State
-King County 	1969722		http://data.kingcounty.gov	US City or County 
-King County Election Data 	1969722		http://electionsdata.kingcounty.gov	Other County Related
-New Mexico	2082224		http://www.sunshineportalnm.com/	US State
-Houston 	2089090		http://data.codeforhouston.com	US City or County  
-Chicago 	2707120	Yes	http://data.cityofchicago.org	US City or County  
-Utah	2817222		http://www.utah.gov/data/	US State
-Utah 	2817222	Yes	http://www.utah.gov/data/	US State
-Kansas	2871238		http://www.kansas.gov/KanView/	US State
-Iowa	3062309		http://data.iowa.gov/	US State
-Denver Regional Council	3157520		http://data.opencolorado.org/group/drcog	Other State Related
-Connecticut	3580709		http://transparency.ct.gov/html/main.asp	US State
-Oklahoma	3791508		http://www.ok.gov/about/data.html	US State
-Maryland	3792647		http://data.maryland.gov	US State
-Oregon	3871859		http://data.oregon.gov	US State
-Kentucky	4369356		http://opendoor.ky.gov/search/Pages/spendingsearch.aspx	US State
-Open Door Kentucky	4369356		http://opendoor.ky.gov/transparency/Pages/default.aspx	US City or County
-Louisiana	4574836		http://wwwprd.doa.louisiana.gov/LaTrac/portal.cfm	US State
-Alabama	4802740		http://open.alabama.gov/	US State
-Colorado	5116796		http://data.opencolorado.org	US State
-Open Colorado	5116796		http://data.colorado.gov	US State
-Cook County 	5217080	Yes	http://cookcounty.socrata.com	US City or County 
-Minnesota	5344861		http://mn.gov/portal/	US State
-Missouri	6010688		http://data.mo.gov	US State 
-Missouri Accountability Portal	6010688		http://mapyourtaxes.mo.gov/MAP/Portal/Default.aspx	Other State Related
-Tennessee	6403353		http://www.tn.gov/opengov/	US State
-Arizona	6482505		http://openbooks.az.gov/app/transparency/index.html	US State
-Indiana	6516922		http://inmap.indiana.edu/viewer.htm	US State
-Massachusetts	6587536		http://www.mass.gov/data/	US State
-Washington	6830038		http://data.wa.gov	US State
-Virginia 	8096604		http://data.openva.com	US State
-Virginia Data Point	8096604		http://datapoint.apa.virginia.gov/	US State
-New York City	8244910		http://www.opendatanyc.com	US City or County
-North Carolina OpenBook	9656401		http://www.ncopenbook.gov/NCOpenBook/	US City or County
-Chicago [Metro]	9729825		http://www.metrochicagodata.org	US City or County
-Georgia	9815210		http://www.open.georgia.gov/	US State
-Michigan	9876187		http://www.michigan.gov/data/	US State
-Ohio	11544951		http://www.sos.state.oh.us/betterLives.aspx	US State
-Illinois 	12869257	in progress	http://data.illinois.gov	US City or County 
-Illinois South Suburban Mayors and Managers	12869257		https://data.illinois.gov/ssmma	Other State Related
-Florida	19057542		http://www.floridahasarighttoknow.com/	US State
-New York	19465197	Yes	https://data.ny.gov/	US State
-New York Health Data 	19465197		http://health.data.ny.gov	Other State Related
-New York State Data Center	19465197		http://esd.ny.gov/NYSDataCenter.html	Other State Related
-NY Department of Health	19465197		https://health.data.ny.gov/	Other State Related
-NY State Senate	19465197		http://www.nysenate.gov/opendata/	Other State Related
-Texas	25674681		http://www.texas.gov/en/Connect/Pages/open-data.aspx	US State
-Texas Transparency	25674681		http://www.texastransparency.org/opendata/index.php	Other State Related
-California	37691912		http://data.ca.gov/	US State
+Name,"Population (Census est or ACS, 2011)",Ownership?,Open Data Law?,Link ,Type 
+De Leon,2233,,,http://deleon.socrata.com,US City or County
+Belleville,3951,,,https://data.illinois.gov/belleville,US City or County
+Gilpin County,5467,,,http://data.opencolorado.org/group/gilpin-county,US City or County
+Weatherford,25557,,,http://tx-weatherford2.civicplus.com/index.aspx?NID=1448,US City or County
+Redmond,26646,,,http://data.redmond.gov,US City or County
+Champaign,39795,,,https://data.illinois.gov/champaign,US City or County
+Wellington,57163,,,https://data.wellingtonfl.gov/,US City or County
+Santa Cruz,60342,,,http://data.cityofsantacruz.com,US City or County  
+Palo Alto,64408,,,http://data.cityofpaloalto.org/,US City or County
+Somerville ,76519,,,http://data.somervillema.gov,US City or County
+Arvada,83433,,,http://arvada.org/opendata/,US City or County
+Asheville,84458,,,http://opendatacatalog.ashevillenc.gov/,US City or County
+South Bend ,101000,,Yes,https://data.southbendin.gov/,US City or County
+Ann Arbor,114925,,,http://www.a2gov.org/data/,US City or County
+Rockford,152222,,,https://data.illinois.gov/rockford,US City or County
+Salt Lake City,186443,,,http://data.slcgov.com,US City or County
+Scottsdale,221020,,,http://data.scottsdaleaz.gov/,US City or County
+Madison,236901,,Yes,http://data.cityofmadison.com,US City or County  
+New Orleans,321409,,,http://data.nola.gov,US City or County 
+Oakland,389397,,Yes,http://data.oaklandnet.com,US City or County 
+Raleigh ,395091,,Yes,http://data.raleighnc.gov,US City or County
+Atlanta,419250,,,http://gis.atlantaga.gov/,US City or County
+Montgomery County,455761,,Yes,https://data.montgomerycountymd.gov/,US City or County
+Kansas City,457551,,,https://data.kcmo.org/,US City or County
+Lexington,457551,,Yes,http://www.lexingtonky.gov/index.aspx?page=4Yes6,US City or County
+Maine,462257,,,http://www.maine.gov/data/,US State
+Albuquerque,539000,,,http://www.cabq.gov/abq-data/,US City or County
+Portland,583778,,Yes,http://civicapps.org/datasets/,US City or County
+Providence,583778,,Yes,https://data.providenceri.gov/,US City or County
+Louisville,592529,,Yes,http://portal.louisvilleky.gov/service/data,US City or County
+Denver,600024,,,http://data.denvergov.org,US City or County  
+Boston,609942,,,http://www.cityofboston.gov/doit/databoston/app/data_disclaimer.asp,US City or County
+Boston GIS Data Hub,609942,,,https://data.cityofboston.gov/,US City or County
+Baltimore ,620210,,,http://data.baltimorecity.gov,US City or County  
+Seattle ,620778,,,http://data.seattle.gov,US City or County
+North Dakota GIS Hub,683932,,,http://www.nd.gov/gis/,Other State Related
+Snohomish County ,722400,,,http://data.snostat.org,US City or County
+San Francisco ,797983,,Yes,http://data.sfgov.org,US City or County
+"Washington, District of Columbia",797983,,Yes,http://data.dc.gov/,US State
+Austin,820611,,Yes,http://data.austintexas.gov,US City or County  
+South Dakota,824082,,,http://open.sd.gov/,US State
+Delaware,907135,,,http://www.delaware.gov/data/,US State
+Wake County,929780,,,http://www.wakegov.com/data/Pages/default.aspx,US City or County
+Honolulu,944287,,in progress,https://data.honolulu.gov/,US City or County
+Rhode Island,1051302,,,http://www.ri.gov/data/,US State
+New Hampshire,1318194,,Yes,http://nhopengov.org/,US State
+Hawaii ,1374810,,Yes,http://data.hawaii.gov,US State
+Hawaii GIS,1374810,,,http://gis.hicentral.com/,Other State Related
+Philadelphia,1514456,,Yes,http://www.opendataphilly.org/,US State
+Nebraska,1842641,,,http://www.nebraska.gov/data/,US State
+King County ,1969722,,,http://data.kingcounty.gov,US City or County 
+King County Election Data ,1969722,,,http://electionsdata.kingcounty.gov,Other County Related
+New Mexico,2082224,,,http://www.sunshineportalnm.com/,US State
+Houston ,2089090,,,http://data.codeforhouston.com,US City or County  
+Chicago ,2707120,,Yes,http://data.cityofchicago.org,US City or County  
+Utah,2817222,,,http://www.utah.gov/data/,US State
+Utah ,2817222,,Yes,http://www.utah.gov/data/,US State
+Kansas,2871238,,,http://www.kansas.gov/KanView/,US State
+Iowa,3062309,,,http://data.iowa.gov/,US State
+Denver Regional Council,3157520,,,http://data.opencolorado.org/group/drcog,Other State Related
+Connecticut,3580709,,,http://transparency.ct.gov/html/main.asp,US State
+Oklahoma,3791508,,,http://www.ok.gov/about/data.html,US State
+Maryland,3792647,,,http://data.maryland.gov,US State
+Oregon,3871859,,,http://data.oregon.gov,US State
+Kentucky,4369356,,,http://opendoor.ky.gov/search/Pages/spendingsearch.aspx,US State
+Open Door Kentucky,4369356,,,http://opendoor.ky.gov/transparency/Pages/default.aspx,US City or County
+Louisiana,4574836,,,http://wwwprd.doa.louisiana.gov/LaTrac/portal.cfm,US State
+Alabama,4802740,,,http://open.alabama.gov/,US State
+Colorado,5116796,,,http://data.opencolorado.org,US State
+Open Colorado,5116796,,,http://data.colorado.gov,US State
+Cook County ,5217080,,Yes,http://cookcounty.socrata.com,US City or County 
+Minnesota,5344861,,,http://mn.gov/portal/,US State
+Missouri,6010688,,,http://data.mo.gov,US State 
+Missouri Accountability Portal,6010688,,,http://mapyourtaxes.mo.gov/MAP/Portal/Default.aspx,Other State Related
+Tennessee,6403353,,,http://www.tn.gov/opengov/,US State
+Arizona,6482505,,,http://openbooks.az.gov/app/transparency/index.html,US State
+Indiana,6516922,,,http://inmap.indiana.edu/viewer.htm,US State
+Massachusetts,6587536,,,http://www.mass.gov/data/,US State
+Washington,6830038,,,http://data.wa.gov,US State
+Virginia ,8096604,,,http://data.openva.com,US State
+Virginia Data Point,8096604,,,http://datapoint.apa.virginia.gov/,US State
+New York City,8244910,,,http://www.opendatanyc.com,US City or County
+North Carolina OpenBook,9656401,,,http://www.ncopenbook.gov/NCOpenBook/,US City or County
+Chicago [Metro],9729825,,,http://www.metrochicagodata.org,US City or County
+Georgia,9815210,,,http://www.open.georgia.gov/,US State
+Michigan,9876187,,,http://www.michigan.gov/data/,US State
+Ohio,11544951,,,http://www.sos.state.oh.us/betterLives.aspx,US State
+Illinois ,12869257,,in progress,http://data.illinois.gov,US City or County 
+Illinois South Suburban Mayors and Managers,12869257,,,https://data.illinois.gov/ssmma,Other State Related
+Florida,19057542,,,http://www.floridahasarighttoknow.com/,US State
+New York,19465197,,Yes,https://data.ny.gov/,US State
+New York Health Data ,19465197,,,http://health.data.ny.gov,Other State Related
+New York State Data Center,19465197,,,http://esd.ny.gov/NYSDataCenter.html,Other State Related
+NY Department of Health,19465197,,,https://health.data.ny.gov/,Other State Related
+NY State Senate,19465197,,,http://www.nysenate.gov/opendata/,Other State Related
+Texas,25674681,,,http://www.texas.gov/en/Connect/Pages/open-data.aspx,US State
+Texas Transparency,25674681,,,http://www.texastransparency.org/opendata/index.php,Other State Related
+California,37691912,,,http://data.ca.gov/,US State

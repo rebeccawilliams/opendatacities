@@ -1,6 +1,6 @@
 Location ,State,"Population (US Census, 2011)",Ownership?,Open Data Law?,Link ,Type 
 De Leon,TX,2233,Government ,No,http://deleon.socrata.com,US City or County
-Belleville,IL ,3951,Government,No,[https://data.illinois.gov/belleville](https://data.illinois.gov/belleville),US City or County
+Belleville,IL ,3951,Government,No,https://data.illinois.gov/belleville,US City or County
 Gilpin County,CO,5467,Community ,No,http://data.opencolorado.org/group/gilpin-county,US City or County
 Weatherford,TX,25557,Government,Yes,http://tx-weatherford2.civicplus.com/index.aspx?NID=1448,US City or County
 Redmond,WA,26646,Government,No,http://data.redmond.gov,US City or County

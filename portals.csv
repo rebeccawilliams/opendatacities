@@ -40,7 +40,7 @@ Snohomish County ,722400,Government,No,http://data.snostat.org,US City or County
 San Mateo County Open Checkbook,727209,Government,No,https://data.smcgov.org/,US City or County
 San Francisco ,797983,Government,Yes,http://data.sfgov.org,US City or County
 "Washington, D.C. [Open Data DC]",797983,Community ,No,http://www.opendatadc.org/,US District 
-"Washington, District of Columbia",797983,Government,Yes,http://data.dc.gov/,US District 
+"Washington, District of Columbia",797983,Government,No,http://data.dc.gov/,US District 
 Austin,820611,Government,Yes,http://data.austintexas.gov,US City or County  
 South Dakota,824082,Government,No,http://open.sd.gov/,US State
 Delaware,907135,Government,No,http://www.delaware.gov/data/,US State

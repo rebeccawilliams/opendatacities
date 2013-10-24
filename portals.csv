@@ -21,6 +21,7 @@ Madison,WI ,236901,Government,Yes,http://data.cityofmadison.com,US City or Count
 Cincinnati ,OH,296223,Community ,No,http://www.opendatacincy.org/,US City or County
 New Orleans,LA,321409,Government,No,http://data.nola.gov,US City or County 
 Oakland,CA,389397,Government,Yes,http://data.oaklandnet.com,US City or County 
+Oakland,CA,389397,Community ,Yes,http://data.openoakland.org/,US City or County 
 Raleigh ,NC,395091,Government,Yes,http://data.raleighnc.gov,US City or County
 Atlanta,GA,419250,Government,No,http://gis.atlantaga.gov/,US City or County
 Montgomery County,MD,455761,Government,Yes,https://data.montgomerycountymd.gov/,US City or County

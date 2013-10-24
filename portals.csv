@@ -12,6 +12,7 @@ Somerville,MA,76519,Government,No,http://data.somervillema.gov,US City or County
 Arvada,CO,83433,Government,No,http://arvada.org/opendata/,US City or County
 Asheville,NC,84458,Government,No,http://opendatacatalog.ashevillenc.gov/,US City or County
 South Bend,IN,101000,Government,Yes,https://data.southbendin.gov/,US City or County
+Cambridge GIS,MA,105162,Government,No,http://cambridgegis.github.io/gisdata.html,US City or County
 Ann Arbor,MI,114925,Government,No,http://www.a2gov.org/data/,US City or County
 Rockford,IL ,152222,Government,No,https://data.illinois.gov/rockford,US City or County
 Salt Lake City,UT,186443,Government,No,http://data.slcgov.com,US City or County
@@ -24,7 +25,7 @@ Raleigh ,NC,395091,Government,Yes,http://data.raleighnc.gov,US City or County
 Atlanta,GA,419250,Government,No,http://gis.atlantaga.gov/,US City or County
 Montgomery County,MD,455761,Government,Yes,https://data.montgomerycountymd.gov/,US City or County
 Kansas City,MO,457551,Community ,No,https://data.kcmo.org/,US City or County
-Lexington,KY,457551,Government,Yes,http://data.lexingtonky.gov/,US City or County
+Lexington,KY,457551,Government,Yes,http://www.lexingtonky.gov/index.aspx?page=4Yes6,US City or County
 Maine,ME,462257,Government,No,http://www.maine.gov/data/,US State
 Albuquerque,NM,539000,Government,No,http://www.cabq.gov/abq-data/,US City or County
 Portland,OR,583778,Community ,Yes,http://civicapps.org/datasets/,US City or County
@@ -103,4 +104,3 @@ New York [State Senate],NY,19465197,Government,Yes,http://www.nysenate.gov/opend
 Texas,TX,25674681,Government,No,http://www.texas.gov/en/Connect/Pages/open-data.aspx,US State
 Texas [Comptroller Transparency],TX,25674681,Government,No,http://www.texastransparency.org/opendata/index.php,Other State Related
 California,CA,37691912,Government,No,http://data.ca.gov/,US State
-Cambridge GIS,MA,105162,Government,No,http://cambridgegis.github.io/gisdata.html,US City or County

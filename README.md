@@ -11,3 +11,4 @@ TO DO:
 
 + link policies [to gist versions] (https://gist.github.com/rebeccawilliams) _Note: many gists private currently._
 + never stop searchin'
++ add a license
